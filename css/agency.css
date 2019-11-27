@@ -30,7 +30,7 @@ body {
 }
 
 .read-more-state ~ .read-more-trigger:before {
-  content: 'Show more';
+  content: 'Read more';
 }
 
 .read-more-state:checked ~ .read-more-trigger:before {
