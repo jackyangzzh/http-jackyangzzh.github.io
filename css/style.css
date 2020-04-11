@@ -365,7 +365,8 @@ body.dark .navigation a{
 }
 
 body.dark .cd-stretchy-nav .stretchy-nav-bg {
-  background: #333;
+  /* background: #333; */
+  background: #daa520;
 }
 
 body.dark .profile-picture img {
@@ -591,8 +592,8 @@ html:not(.lt-ie10) .not-animated {
   .cd-stretchy-nav {
     position: fixed;
     z-index: 2;
-    top: 30px;
-    left: 30px;
+    top: 50px;
+    left: 50px;
     height: initial;
     line-height: initial;
     width: initial;

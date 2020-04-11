@@ -32,7 +32,8 @@ body.blog.dark .comments-list .comment-reply:hover,
 .cd-stretchy-nav.nav-is-visible ul li.active a span,
 .cd-stretchy-nav.nav-is-visible ul li a:hover,
 .cd-stretchy-nav.nav-is-visible ul li a:hover span {
-	color: #daa520 !important;
+	color: white !important;
+	font-weight: bolder;
 }
 .chart-bar>.item-progress,
 .navigation li > div a span:after,
