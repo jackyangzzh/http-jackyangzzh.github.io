@@ -527,6 +527,15 @@ body.dark #loader-wrapper .loader-section {
   margin: auto;
 }
 
+
+.medium-widget-article__title{
+  color: white;
+}
+
+.medium-widget-article__sub-title{
+  color: white;
+}
+
 .progress-line {
   background: #222;
   margin-top: 0;
