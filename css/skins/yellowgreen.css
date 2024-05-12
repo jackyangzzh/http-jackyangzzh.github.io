@@ -25,16 +25,16 @@ body.blog.dark .comments-list .comment-reply:hover,
 .navigation li a i,
 .resume-items .item .card-header .year i.fa-caret-right,
 .badges h3 span,
-.chart-bar>.percent  {
-	color: #9acd32;
+.chart-bar > .percent {
+  color: #9acd32;
 }
 .cd-stretchy-nav.nav-is-visible ul li.active a,
 .cd-stretchy-nav.nav-is-visible ul li.active a span,
 .cd-stretchy-nav.nav-is-visible ul li a:hover,
 .cd-stretchy-nav.nav-is-visible ul li a:hover span {
-	color: #9acd32 !important;
+  color: #9acd32 !important;
 }
-.chart-bar>.item-progress,
+.chart-bar > .item-progress,
 .navigation li > div a span:after,
 .cd-stretchy-nav ul a::before,
 .nav-container > div > ul li:not(:last-child):hover:after,
@@ -49,7 +49,7 @@ body.dark .carousel-controls,
 #header > div.bg,
 .ah-headline.clip .ah-words-wrapper::after,
 .btn-secondary:not(:disabled):not(.disabled).active,
-.btn-secondary:not(:disabled):not(.disabled):active ,
+.btn-secondary:not(:disabled):not(.disabled):active,
 .btn.btn-secondary:before,
 section#blog .post-date,
 .resume-items .item-label,
@@ -60,42 +60,42 @@ section#blog .post-date,
 .comments-form button:active,
 .back-mobile,
 .page-title .title-head-subtitle:before,
-.page-title .title-head-subtitle:after{
-	background-color: #9acd32;
+.page-title .title-head-subtitle:after {
+  background-color: #9acd32;
 }
 
 .contact-container ul.social-intro li a,
 .btn.btn-secondary,
 .btn.btn-secondary:focus,
-.chart-bar>.percent {
-	border: 1px solid #9acd32;
+.chart-bar > .percent {
+  border: 1px solid #9acd32;
 }
 
 .arrow {
-	border: 1px solid #9acd32;
-    border-width: 0 1px 1px 0;
+  border: 1px solid #9acd32;
+  border-width: 0 1px 1px 0;
 }
 
 .resume-items .item:before {
-	border-left: 1px solid #9acd32;
+  border-left: 1px solid #9acd32;
 }
 
-.resume-items .item .bullet{
-	border: 2px solid #9acd32;
+.resume-items .item .bullet {
+  border: 2px solid #9acd32;
 }
 
 .personal-info .image-container:before {
-	border: 6px solid #9acd32;
+  border: 6px solid #9acd32;
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active,
 .btn-secondary:not(:disabled):not(.disabled):active {
-	border-color:#9acd32;
+  border-color: #9acd32;
 }
 
 body.blog .container-fluid.page-title .content-banner {
-	border-bottom:8px solid #9acd32;
+  border-bottom: 8px solid #9acd32;
 }
 #portfolio-items li a div {
-	background: #9acd32;
+  background: #9acd32;
 }
